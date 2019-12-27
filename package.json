@@ -1,0 +1,19 @@
+{
+  "name": "elos.auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.17.1",
+    "js-sha1": "^0.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mssql": "^6.0.1"
+  }
+}
